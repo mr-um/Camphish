@@ -37,6 +37,6 @@ cd Camphish
 bash camphish.sh
 ```
 ### Video Demo
-#### For More Tutorial Follow Our Blog <a href="http://mrumhackinglab.org">Mr.Um Hacking Lab.</a>
+#### For More Tutorial Follow Our Blog <a href="http://mrumhackinglaborg.blogspot.com">Mr.Um Hacking Lab.</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://https://github.com/mr-um Big thanks to @Mr.UM Hacking Lab</p>
